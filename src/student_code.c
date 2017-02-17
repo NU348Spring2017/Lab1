@@ -2,5 +2,5 @@
 
 void get_msg(char *msg)
 {
-	strcpy(msg, "hello world");
+	// PUT YOUR CODE HERE
 }
